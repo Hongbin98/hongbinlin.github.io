@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a second-year PhD student at The Chinese University of Hong Kong, Shenzhen. I received my master's degree from the South China University of Technology, Guangzhou, China. My advisors are Prof. Zhen LI and Prof. Yanxia Liu. My research interests are broadly in machine learning and mainly focus on model robustness enhancement, such as: i) robust autonomous driving, ii) test-time out-of-distribution generalization in the open real world, and iii) deep domain adaptation
 
 A data-driven personal website
 ======
