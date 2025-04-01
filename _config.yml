@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me_3.png"
+  avatar           : "images/me_3.png"
   name             : "Hongbin Lin (林宏彬)"
   pronouns         : # example: "she/her"  
   bio              : "I am now a PhD in CUHKSZ supervised by Prof. Zhen Li."
