@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Hongbin Lin"
 title_separator          : "-"
 name                     : &name "Hongbin Lin (林宏彬)"
 description              : &description "I am now a phd in CUHKSZ"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me_3.png"
   name             : "Hongbin Lin (林宏彬)"
   pronouns         : # example: "she/her"  
   bio              : "I am now a PhD in CUHKSZ supervised by Prof. Zhen Li."
